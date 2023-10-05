@@ -1,4 +1,4 @@
-var sliderLine = document.getElementById("slider-line");
+const sliderLine = document.getElementById("slider-line");
 const left = document.querySelector(".left");
 const right = document.querySelector(".right");
 var position = 0;
